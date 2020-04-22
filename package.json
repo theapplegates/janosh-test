@@ -16,7 +16,7 @@
     "babel-plugin-styled-components": "^1.10.7",
     "disqus-react": "^1.0.7",
     "exifreader": "^3.1.0",
-    "gatsby": "2.19.45",
+    "gatsby": "2.20.4",
     "gatsby-image": "2.2.44",
     "gatsby-plugin-algolia": "^0.5.0",
     "gatsby-plugin-catch-links": "2.1.28",
